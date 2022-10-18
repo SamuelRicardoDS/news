@@ -7,7 +7,7 @@ export default function Home() {
         <title>inicio | news</title>
       </Head>
       <h1>
-        hello world
+        plataforma que vai ter noticias dos granolas privada pros granolas
       </h1>
     </>
   );
